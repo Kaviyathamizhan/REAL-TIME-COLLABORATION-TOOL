@@ -77,3 +77,5 @@ Conclusion:
 This collaborative editor project demonstrates the power of real-time communication combined with a rich text editor, providing a seamless experience for users to collaborate on documents. By using React, Quill, and Socket.IO, we were able to build an application that not only allows for smooth, real-time editing but also provides an intuitive interface for the users. Whether it’s for team collaboration, content creation, or learning environments, this tool can be a valuable resource for any real-time collaborative project.
 
 OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/c77b6a6b-e398-4335-a5e9-6e3aa43cf01e)
