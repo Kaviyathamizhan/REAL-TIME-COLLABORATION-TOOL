@@ -1,17 +1,5 @@
 # REAL-TIME-COLLABORATION-TOOL
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: KAVIYATHAMIZHAN T K
-
-INTERN ID: CT08WC44
-
-DOMAIN: MERN STACK WEB DEVELOPMENT
-
-DURATION: 8 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION :
 
 This project demonstrates a real-time collaborative text editor built with React, Quill (a popular rich text editor), and Socket.IO. The application allows multiple users to simultaneously collaborate on a shared document, with changes instantly reflected across all users’ screens. Using WebSocket technology, we can broadcast and synchronize document changes in real-time, ensuring seamless collaboration. This kind of tool is ideal for scenarios where users need to edit a document or code together, such as in virtual team meetings, classrooms, or collaborative writing environments.
